@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAMUEL MENDEZ
 - 👀 I’m interested to practice and learn more about HTML, CSS, PYTHON and JAVA.
-- 🌱 I’m currently learning HTML, CSS, AND PYTHON
+- 🌱 I’m currently learning HTML, JAVA, AND PYTHON
 - 💞️ I’m looking to collaborate on some projects to continue practicing
 - 📫 How to reach me: mendezsamuel2005@gmail.com
 
